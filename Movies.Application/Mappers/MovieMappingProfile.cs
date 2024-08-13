@@ -3,7 +3,7 @@ using Movies.Application.Commands;
 using Movies.Application.Responses;
 using Movies.Core.Entities;
 
-namespace Movies.Application;
+namespace Movies.Application.Mappers;
 
 public class MovieMappingProfile: Profile
 {

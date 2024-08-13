@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace Movies.Application;
+namespace Movies.Application.Mappers;
 
 public class MovieMapper
 {

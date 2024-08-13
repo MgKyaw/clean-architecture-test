@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Movies.Application.Mappers;
 using Movies.Application.Queries;
 using Movies.Application.Responses;
 using Movies.Core.Repositories;
