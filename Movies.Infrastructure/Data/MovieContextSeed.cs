@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using Movies.Core.Entities;
 
-namespace Movies.Infrastructure;
+namespace Movies.Infrastructure.Data;
 
 public class MovieContextSeed
 {
