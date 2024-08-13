@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Movies.Application.Responses;
 
-namespace Movies.Application;
+namespace Movies.Application.Queries;
 
 public class GetMoviesByDirectorNameQuery : IRequest<IEnumerable<MovieResponse>>
 {
