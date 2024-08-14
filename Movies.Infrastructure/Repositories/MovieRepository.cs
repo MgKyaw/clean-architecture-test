@@ -4,7 +4,7 @@ using Movies.Infrastructure.Repositories.Base;
 using Movies.Infrastructure.Data;
 using Movies.Core.Entities;
 
-namespace Movies.Infrastructure;
+namespace Movies.Infrastructure.Repositories;
 
 public class MovieRepository : Repository<Movie>, IMovieRepository
 {
